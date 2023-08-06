@@ -8,7 +8,7 @@ Before you begin, ensure you have the following installed:
 
 - Node.js (v16.17.1)
 - NPM (package manager)
-- MySQL (v13 or later)
+- MySQL
 
 ## Getting Started
 
